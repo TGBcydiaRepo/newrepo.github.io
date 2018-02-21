@@ -1,0 +1,20 @@
+{
+  "id"            : "com.supermamon.oldpackage",
+  "packagename"   : "Old Package",
+  "author"        : "@supermamon",
+  "compatibility" : {
+    "firmware"    : {
+      "miniOS"    : "6.0",
+      "maxiOS"    : "7.0",
+      "otherVersions" : "unsupported"
+    }
+  },
+  "descriptions"  : [
+    "This is an old package. Requires iOS 7 and below."
+  ],
+  "changelog"     : {
+    "1.0.0" : [
+                "Initial Release"
+              ]
+  }
+}
